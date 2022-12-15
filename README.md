@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Siddhant Sharma</h1>
 <h3 align="center">A Fancy Curve Fitter who fits curve and teaches how to fit curve for living.</h3>
 
+
+<img align='right' width="400" alt='coding' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align='left' width='400' alt='AI' src='https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif'>
+
 <br>
-<img align='right' width="200" alt='coding' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align='left' width='300' alt='AI' src='https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif'>
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhant128-bit" alt="siddhant128-bit" /></a> </p>
 
