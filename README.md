@@ -3,7 +3,6 @@
 
 <img align='right'width="400" alt='coding' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img align='left'width="400" alt='coding' src="https://terpconnect.umd.edu/~toh/spectrum/FittingAnimation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant128-bit&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant128-bit" /> </p>
 
