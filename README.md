@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant128-bit&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant128-bit" /> </p>
 
-<img align='left' width="400" alt='coding' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhant128-bit" alt="siddhant128-bit" /></a> </p>
 
 <img align='right' width="400" alt='coding' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -19,6 +17,8 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
 
 - ⚡ Fun fact **if (input==coffee): output=code**
+
+<img align='left' width="400" alt='coding' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
