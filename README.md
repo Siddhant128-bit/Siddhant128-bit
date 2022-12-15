@@ -22,7 +22,7 @@
 <img alt='fitting' align='left' width='400' height='300' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
 
 
-<p><img align="right" width='800' src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant128-bit&show_icons=true&locale=en&layout=compact" alt="siddhant128-bit" /></p>
+<p><img align="right" width='500' src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant128-bit&show_icons=true&locale=en&layout=compact" alt="siddhant128-bit" /></p>
 
 <br>
 <br>
