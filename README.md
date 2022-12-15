@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Siddhant Sharma</h1>
 <h3 align="center">A Fancy Curve Fitter who fits curve and teaches how to fit curve for living.</h3>
 
-<img align='right' width="400" alt='coding' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant128-bit&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant128-bit" /> </p>
 
+<img align='left' width="400" alt='coding' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhant128-bit" alt="siddhant128-bit" /></a> </p>
+
+<img align='right' width="400" alt='coding' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **Segmentation, Medical Imaging, MONAI**
 
