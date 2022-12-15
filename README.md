@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **if (input==coffee): output=code**
 
-<img alt='fitting' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
+<img alt='fitting' align='center' width='300' height='300' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
