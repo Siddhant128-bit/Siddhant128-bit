@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **if (input==coffee): output=code**
 
-<img alt='fitting' align='left' width='300' height='300' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
+<img alt='fitting' align='left' width='500' height='300' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant128-bit&show_icons=true&locale=en&layout=compact" alt="siddhant128-bit" /></p>
@@ -46,6 +46,9 @@
 <a href="https://linkedin.com/in/siddhant-ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-ml" height="30" width="40" /></a>
 <a href="https://fb.com/siddhant.sharma74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siddhant.sharma74" height="30" width="40" /></a>
 </p>
+
+<br>
+<br>
 
 <h3 align="right">Languages and Tools:</h3>
 <br>
