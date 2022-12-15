@@ -1,3 +1,4 @@
+<img align='center' src="https://thumbs.gfycat.com/EnormousDamagedEarthworm-max-1mb.gif" width="950"/>
 <h1 align="center">Hi 👋, I'm Siddhant Sharma</h1>
 <h3 align="center">A Fancy Curve Fitter who fits curve and teaches how to fit curve for living.</h3>
 
