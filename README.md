@@ -21,6 +21,11 @@
 
 <img alt='fitting' align='left' width='300' height='300' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant128-bit&show_icons=true&locale=en&layout=compact" alt="siddhant128-bit" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant128-bit&" alt="siddhant128-bit" /></p>
+
 <h3 align="right">Connect with me:</h3>
 <br>
 <p align="right">
@@ -34,7 +39,4 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant128-bit&show_icons=true&locale=en&layout=compact" alt="siddhant128-bit" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant128-bit&" alt="siddhant128-bit" /></p>
 
