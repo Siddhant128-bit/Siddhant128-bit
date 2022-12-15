@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **if (input==coffee): output=code**
 
-<img align='left' width="400" alt='coding' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
+<img  width="400" alt='coding' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
