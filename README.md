@@ -49,6 +49,7 @@
 
 <br>
 <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhant128-bit&show_icons=true&locale=en" alt="siddhant128-bit" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
