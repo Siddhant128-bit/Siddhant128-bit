@@ -7,6 +7,8 @@
 <img align='left' width='420' height="300" alt='AI' src='https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif'>
 
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhant128-bit" alt="siddhant128-bit" /></a> </p>
 
 - 🔭 I’m currently learning **Segmentation, Medical Imaging, MONAI**
@@ -19,7 +21,6 @@
 
 - ⚡ Fun fact **if (input==coffee): output=code**
 
-- ⚡ Fun fact **if (input==coffee): output=code**
 
 <img alt='fitting' align='left' width='400' height='200' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
 
