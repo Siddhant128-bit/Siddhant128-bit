@@ -41,7 +41,8 @@
 
 <p float="left">
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=siddhant128-bit&show_icons=true&locale=en" alt="siddhant128-bit" />
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant128-bit&" alt="siddhant128-bit" />
+<img align="right" width="400" src="https://streak-stats.demolab.com/?user=siddhant128-bit" alt="siddhant128-bit" />
+  
 </p>
 
 <br>
