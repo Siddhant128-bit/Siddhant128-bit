@@ -6,7 +6,7 @@
 
 
 <img align='right' width="420" height="300" alt='coding' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align='left' width='520' height='300' src="https://thumbs.gfycat.com/EnormousDamagedEarthworm-max-1mb.gif" width="900"/>
+<img align='left' width='420' height='300' src="https://thumbs.gfycat.com/EnormousDamagedEarthworm-max-1mb.gif" width="900"/>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
