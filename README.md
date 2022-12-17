@@ -22,10 +22,10 @@
 
 - ⚡ Fun fact **if (input==coffee): output=code**
 
-<img alt='fitting' align='left' width='450' height='200' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
+<img alt='fitting' align='left' width='400' height='200' src="https://terpconnect.umd.edu/~toh/spectrum/Demofitgauss2animated.gif">
 
 
-<p><img align="right" width='450' src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant128-bit&show_icons=true&locale=en&layout=compact" alt="siddhant128-bit" /></p>
+<p><img align="right" width='400' src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant128-bit&show_icons=true&locale=en&layout=compact" alt="siddhant128-bit" /></p>
 
 <br>
 <br>
@@ -40,8 +40,8 @@
 <br>
 
 <p float="left">
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=siddhant128-bit&show_icons=true&locale=en" alt="siddhant128-bit" />
-<img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant128-bit&" alt="siddhant128-bit" />
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=siddhant128-bit&show_icons=true&locale=en" alt="siddhant128-bit" />
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant128-bit&" alt="siddhant128-bit" />
 </p>
 
 <br>
