@@ -6,12 +6,8 @@
 <img align='right' width="400" height="300" alt='coding' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img align='left' width='400' height="300" alt='AI' src='https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif'>
 
-<br>
-<br>
-<br>
-<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhant128-bit" alt="siddhant128-bit" /></a> </p>
+<p align="left"> <br><br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhant128-bit" alt="siddhant128-bit" /></a> </p>
 
 - 🔭 I’m currently learning **Segmentation, Medical Imaging, MONAI**
 
