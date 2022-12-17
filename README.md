@@ -1,10 +1,12 @@
-<img align='center' src="https://thumbs.gfycat.com/EnormousDamagedEarthworm-max-1mb.gif" width="900"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=4500&pause=1000&color=06F73C&center=true&vCenter=true&width=900&height=150&lines=Hello+World+!+Welcome+to+my+profile+!!;I+!hate+coding+and+I+!love+debugging;while(!(succeed%3Dtry()))" alt="Typing SVG" /></a>
+
+
 <h1 align="center">Hi 👋, I'm Siddhant Sharma</h1>
 <h3 align="center">A Fancy Curve Fitter who fits curve and teaches how to fit curve for living.</h3>
 
 
 <img align='right' width="420" height="300" alt='coding' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align='left' width='420' height="300" alt='AI' src='https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif'>
+<img align='left' width='520' height='300' src="https://thumbs.gfycat.com/EnormousDamagedEarthworm-max-1mb.gif" width="900"/>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
