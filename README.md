@@ -10,13 +10,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhant128-bit" alt="siddhant128-bit" /></a> </p>
 
-- 🌱 I’m currently learning **Segmentation, Medical Imaging, MONAI**
+- 🔭 I’m currently learning **Segmentation, Medical Imaging, MONAI**
 
 - 💬 Ask me about **ML,DL, Automation and many more**
 
 - 📫 How to reach me **siddhant.sharma1974@gmail.com**
 
 - 📄 Know about my experiences [Resume Here](https://drive.google.com/file/d/1kVT6uVOwUOdMcbPvwv-mXzNeG_akcqQ-/view?usp=sharing)
+
+- ⚡ Fun fact **if (input==coffee): output=code**
 
 - ⚡ Fun fact **if (input==coffee): output=code**
 
