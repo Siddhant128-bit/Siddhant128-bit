@@ -42,8 +42,8 @@
 <br>
 
 <p float="left">
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Siddhant128-bit&show_icons=true&theme=radical" alt="siddhant128-bit" />
-<img align="right" width="400" src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=true" alt="siddhant128-bit" />
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=siddhant128-bit&show_icons=true&locale=en" alt="siddhant128-bit" />
+<i<img align="right" width="400" src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=true" alt="siddhant128-bit" />
   
 </p>
 
