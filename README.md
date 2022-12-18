@@ -24,7 +24,7 @@
 - ⚡ Fun fact **if (input==coffee): output=code**
 
 
-<img alt='fitting' align='left' width='400' height='200' src="https://media3.giphy.com/media/F6O1O2saVuBbYCfZhm/giphy.gif">
+<img alt='AI' align='left' width='400' height='200' src="https://media3.giphy.com/media/F6O1O2saVuBbYCfZhm/giphy.gif">
 
 
 <p><img align="right" width='400' src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant128-bit&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="siddhant128-bit" /></p>
