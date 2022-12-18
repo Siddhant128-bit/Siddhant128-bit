@@ -11,7 +11,7 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Siddhant128-bit" alt="siddhant128-bit" /></a> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhant128-bit" alt="siddhant128-bit" /></a> </p>
 
 - 🔭 I’m currently learning **Segmentation, Medical Imaging, MONAI**
 
@@ -24,7 +24,7 @@
 - ⚡ Fun fact **if (input==coffee): output=code**
 
 
-<img alt='AI' align='left' width='400' height='200' src="https://i.pinimg.com/originals/2c/e2/e0/2ce2e0d8e2eeb0f8bfedf5503a346d4f.gif">
+<img alt='fitting' align='left' width='400' height='200' src="https://thumbs.gfycat.com/AnimatedVacantAldabratortoise-max-1mb.gif">
 
 
 <p><img align="right" width='400' src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant128-bit&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="siddhant128-bit" /></p>
