@@ -24,26 +24,15 @@
 
 
 <img alt='fitting' align='left' width='400' height='200' src="https://thumbs.gfycat.com/AnimatedVacantAldabratortoise-max-1mb.gif">
-<p><img align="right" width='400' src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant128-bit&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="siddhant128-bit" /></p>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<p float="left">
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=siddhant128-bit&show_icons=true&theme=dark&hide_border=true&locale=en" alt="siddhant128-bit" />
 <img align="right" width="400" src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=true" alt="siddhant128-bit" />
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
