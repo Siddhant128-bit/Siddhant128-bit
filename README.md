@@ -42,7 +42,7 @@
 
 <img alt='fitting' align='right' width='500' height='500' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false'>
      
-<img alt='fitting' align='right' width='400' height='200' src="https://thumbs.gfycat.com/AnimatedVacantAldabratortoise-max-1mb.gif">
+<img alt='fitting' align='left' width='400' height='200' src="https://thumbs.gfycat.com/AnimatedVacantAldabratortoise-max-1mb.gif">
  
 <br>
 <br>
