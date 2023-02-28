@@ -39,7 +39,7 @@
 </picture>
 
 <a href="https://github.com/Siddhant128-bit/github-readme-stats" align='right'>
-  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false">
 </a>
   
 <img alt='fitting' align='right' width='400' height='200' src="https://thumbs.gfycat.com/AnimatedVacantAldabratortoise-max-1mb.gif">
