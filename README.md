@@ -40,6 +40,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false&align=left)](https://github.com/Siddhant128-bit/github-readme-stats)
 
+<img alt='fitting' align='right' width='400' height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false&align=left'>
+     
 <img alt='fitting' align='right' width='400' height='200' src="https://thumbs.gfycat.com/AnimatedVacantAldabratortoise-max-1mb.gif">
  
 <br>
