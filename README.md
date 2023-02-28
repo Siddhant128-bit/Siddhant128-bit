@@ -40,12 +40,12 @@
 
 
 
-<img alt='fitting' align='right' width='450' height='400' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false'>
+<img alt='fitting' align='right' width='450' height='500' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false'>
 
 <img align='center' width='400'  height='300' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhant128-bit&theme=github_dark&hide_border=false'> 
 
 
-<img alt='fitting' align='center' width='900' height='400' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhant128-bit&theme=github_dark'>
+<img alt='fitting' align='center' width='900' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhant128-bit&theme=github_dark'>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
