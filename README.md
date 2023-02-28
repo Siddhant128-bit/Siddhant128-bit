@@ -26,20 +26,22 @@
 <img align="center" width="800" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=false" alt="siddhant128-bit" />
 </p>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Siddhant128-bit&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img width="800" height='200' src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='center' />
-</picture>
-
-
 <div align='center'>
+  
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Siddhant128-bit&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="800" height='200' src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='center' />
+  </picture>
+
+
+
   <img alt='fitting' align='center' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddhant128-bit&theme=github_dark'>
   <br>
   <img align='cnter' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhant128-bit&theme=github_dark&hide_border=false'> 
