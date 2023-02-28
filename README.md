@@ -23,7 +23,7 @@
 - ⚡ Fun fact **if (input==coffee): output=code**
 
 
-<img align="left" width="500" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=false" alt="siddhant128-bit" />
+<img align="left" width="300" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=false" alt="siddhant128-bit" />
 </p>
 
 <picture>
