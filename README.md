@@ -35,7 +35,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img width="300" height='200' src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='right' />
+<img width="400" height='200' src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='right' />
 </picture>
 
 
