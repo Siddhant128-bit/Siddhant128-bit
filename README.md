@@ -24,7 +24,7 @@
 </p>
 
 <div align='center'>
-  <img align="center" width="800" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=false" alt="siddhant128-bit" />
+  <img align="center" width="900" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=false" alt="siddhant128-bit" />
   
   <picture>
   <source 
