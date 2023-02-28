@@ -21,12 +21,10 @@
 - 📄 Know about my experiences [Resume Here](https://drive.google.com/file/d/1Mx00s0Co9OhnypjH-WaHgLiEX04vcxlz/view?usp=sharing)
 
 - ⚡ Fun fact **if (input==coffee): output=code**
-
-
-<img align="center" width="800" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=false" alt="siddhant128-bit" />
 </p>
 
 <div align='center'>
+  <img align="center" width="800" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=false" alt="siddhant128-bit" />
   
   <picture>
   <source 
@@ -42,9 +40,9 @@
 
 
 
-  <img alt='fitting' align='center' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddhant128-bit&theme=github_dark'>
+  <img alt='fitting' width="800" height='200' align='center' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddhant128-bit&theme=github_dark'>
   <br>
-  <img align='cnter' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhant128-bit&theme=github_dark&hide_border=false'> 
+  <img align='cnter' width="800" height='200' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhant128-bit&theme=github_dark&hide_border=false'> 
 </div>
 
 <img alt='fitting' align='center' width='900' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhant128-bit&theme=github_dark'>
