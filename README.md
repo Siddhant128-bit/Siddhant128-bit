@@ -24,7 +24,7 @@
 </p>
 
 <div align='center'>
-  <img align="center" width="900" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=false" alt="siddhant128-bit" />
+  <img align="center" width="800" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=false" alt="siddhant128-bit" />
   
   <picture>
   <source 
@@ -35,7 +35,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="800" height='200' src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='center' />
+  <img width="900" height='200' src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='center' />
   </picture>
 
 
