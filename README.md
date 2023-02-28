@@ -40,14 +40,13 @@
 
 
 
-<img alt='fitting' align='right' width='500' height='500' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false'>
+<img alt='fitting' align='right' width='400' height='500' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false'>
 
-     
-<img alt='fitting' align='left' width='500' height='500' src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddhant128-bit&theme=github_dark&utcOffset=8">
+<img alt='fitting' align='left' width='400' height='500' src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddhant128-bit&theme=github_dark&utcOffset=8">
+
+
 <img alt='fitting' align='center' width='900' height='400' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhant128-bit&theme=github_dark'>
  
-
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddhant-ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-ml" height="30" width="40" /></a>
