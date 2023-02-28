@@ -23,7 +23,7 @@
 - ⚡ Fun fact **if (input==coffee): output=code**
 
 
-<img align="left" width="300" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=false" alt="siddhant128-bit" />
+<img align="left" width="400" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=false" alt="siddhant128-bit" />
 </p>
 
 <picture>
@@ -35,7 +35,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='right' />
+<img width="300" height='200' src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='right' />
 </picture>
 
 
