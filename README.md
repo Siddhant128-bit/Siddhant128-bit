@@ -46,7 +46,7 @@
 <img alt='fitting' align='left' width='400' height='400' src="https://thumbs.gfycat.com/AnimatedVacantAldabratortoise-max-1mb.gif">
  
  
- <img alt='fitting' align='center' width='800' height='600' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhant128-bit&theme=github_dark'>
+ <img alt='fitting' align='center' width='800' height='500' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhant128-bit&theme=github_dark'>
  
 <br>
 <br>
