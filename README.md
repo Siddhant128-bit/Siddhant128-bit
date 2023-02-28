@@ -40,9 +40,9 @@
 
 
 
-  <img alt='fitting' width="800" height='400' align='center ' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddhant128-bit&theme=github_dark'>
-
-  <img align='right' width="800" height='400' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhant128-bit&theme=github_dark&hide_border=false'> 
+  <img alt='fitting' width="800" height='300' align='center ' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddhant128-bit&theme=github_dark'>
+  <br>
+  <img align='right' width="800" height='300' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhant128-bit&theme=github_dark&hide_border=false'> 
 
 </div>
 
