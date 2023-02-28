@@ -38,8 +38,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='right' />
 </picture>
 
-<a href="https://github.com/Siddhant128-bit/github-readme-stats">
-  <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false">
+<a href="https://github.com/Siddhant128-bit/github-readme-stats" align='left'>
+  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false">
 </a>
   
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false)](https://github.com/Siddhant128-bit/github-readme-stats) -->
