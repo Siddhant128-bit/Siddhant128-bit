@@ -23,8 +23,7 @@
 - ⚡ Fun fact **if (input==coffee): output=code**
 
 
-<img alt='fitting' align='left' width='400' height='200' src="https://thumbs.gfycat.com/AnimatedVacantAldabratortoise-max-1mb.gif">
-<img align="right" width="500" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=true" alt="siddhant128-bit" />
+<img align="left" width="500" height='200' src="https://streak-stats.demolab.com/?user=Siddhant128-bit&theme=dark&hide_border=true" alt="siddhant128-bit" />
 </p>
 
 <picture>
@@ -39,7 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='right' />
 </picture>
 
-
+<img alt='fitting' align='left' width='400' height='200' src="https://thumbs.gfycat.com/AnimatedVacantAldabratortoise-max-1mb.gif">
 
 <br>
 <br>
