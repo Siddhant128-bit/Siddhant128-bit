@@ -44,7 +44,7 @@
 
 <a align='left'>
   <img alt='fitting' align='left' width='400' height='500' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhant128-bit&theme=github_dark'> 
-  <img alt='fitting' align='left' width='400' height='500' src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddhant128-bit&theme=github_dark&utcOffset=8">
+  <img width='400' height='500' src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddhant128-bit&theme=github_dark&utcOffset=8">
 </a>
 
 <img alt='fitting' align='center' width='900' height='400' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhant128-bit&theme=github_dark'>
