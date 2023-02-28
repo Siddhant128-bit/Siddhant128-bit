@@ -38,6 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='right' />
 </picture>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false)](https://github.com/Siddhant128-bit/github-readme-stats)
 
