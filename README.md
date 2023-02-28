@@ -42,7 +42,7 @@
 
 <img alt='fitting' align='right' width='450' height='500' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false'>
 
-<img align='left' width='400'  src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhant128-bit&theme=github_dark'> 
+<img align='left' width='400'  height='100' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhant128-bit&theme=github_dark'> 
 
 
 <img alt='fitting' align='center' width='900' height='400' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhant128-bit&theme=github_dark'>
