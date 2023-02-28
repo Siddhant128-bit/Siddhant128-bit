@@ -38,7 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='right' />
 </picture>
 
-<a href="https://github.com/Siddhant128-bit/github-readme-stats" align='left'>
+<a href="https://github.com/Siddhant128-bit/github-readme-stats" align='right'>
   <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false">
 </a>
   
