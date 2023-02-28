@@ -38,10 +38,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" align='right' />
 </picture>
 
-<div style="text-align: left">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false)](https://github.com/Siddhant128-bit/github-readme-stats)
-</div>
- <img alt='fitting' align='right' width='400' height='200' src="https://thumbs.gfycat.com/AnimatedVacantAldabratortoise-max-1mb.gif">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&theme=dark&hide_border=false&align=left)](https://github.com/Siddhant128-bit/github-readme-stats)
+
+<img alt='fitting' align='right' width='400' height='200' src="https://thumbs.gfycat.com/AnimatedVacantAldabratortoise-max-1mb.gif">
  
 <br>
 <br>
