@@ -40,7 +40,13 @@
 </picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant128-bit&hide_progress=true)](https://github.com/Siddhant128-bit/github-readme-stats)
+<a href="https://github.com/Siddhant128-bit/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhant128-bit&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhant128-bit&repo=convoychat" />
+</a>
+
 
 <br>
 <br>
