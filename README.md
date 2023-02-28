@@ -48,29 +48,7 @@
  
  <img alt='fitting' align='center' width='800' height='500' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhant128-bit&theme=github_dark'>
  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
