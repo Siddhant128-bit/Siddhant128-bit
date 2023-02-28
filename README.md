@@ -43,7 +43,7 @@
 <a href="https://github.com/Siddhant128-bit/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhant128-bit&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Siddhant128-bit/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhant128-bit&repo=convoychat" />
 </a>
 
