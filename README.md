@@ -41,7 +41,7 @@
 
 <div align='center'>
   <img alt='fitting' align='center' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddhant128-bit&theme=github_dark'>
-
+  <br>
   <img align='cnter' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhant128-bit&theme=github_dark&hide_border=false'> 
 </div>
 
