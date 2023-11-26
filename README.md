@@ -6,7 +6,8 @@
 <h3 align="center">A Fancy Curve Fitter who fits curve and teaches how to fit curve for living.</h3>
 
 <img align='right' width="410" height="300" alt='coding' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align='left' width='410' height='300' src="https://thumbs.gfycat.com/EnormousDamagedEarthworm-max-1mb.gif" width="900"/>
+
+<img align='left' width='410' height='300' src="https://cdn.dribbble.com/users/1446559/screenshots/5453050/97e3bc07ac5ca76150df36be8e142336.gif" width="900"/>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
