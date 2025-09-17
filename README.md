@@ -14,7 +14,7 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhant128-bit" alt="siddhant128-bit" /></a> </p>
 
-- 🔭 I’m currently learning **YOLO, Bytetrack, Siamese Network, Reidentification Problem.**
+- 🔭 I’m currently learning **Recommendation System,Vector Databases,Prophet Forecasting**
 
 - 💬 Ask me about **ML,DL, Automation and many more**
 
