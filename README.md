@@ -7,23 +7,21 @@
 <h1 align="center">Hi 👋, I'm Siddhant Sharma</h1>
 <h3 align="center">A Fancy Curve Fitter who fits curve and teaches how to fit curve for living.</h3>
 
-<!-- Responsive Side-by-Side GIFs -->
-<!-- Using Flexbox so they stay side by side on big screens, and stack neatly on small screens -->
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-  
-  <!-- Left GIF -->
+<!-- Fixed Side-by-Side Images -->
+<!-- This will ALWAYS keep them left/right, never stacked -->
+<div style="display: flex; width: 100%; height: 350px; margin: 20px 0;">
+
+  <!-- Left Image -->
   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
        alt="coding gif" 
-       style="flex: 1; min-width: 300px; max-width: 48%; height: auto; border-radius: 10px;">
-  
-  <!-- Right GIF -->
+       style="flex: 1; width: 50%; height: 100%; object-fit: cover;">
+
+  <!-- Right Image -->
   <img src="https://cdn.dribbble.com/users/1446559/screenshots/5453050/97e3bc07ac5ca76150df36be8e142336.gif" 
        alt="fitting gif" 
-       style="flex: 1; min-width: 300px; max-width: 48%; height: auto; border-radius: 10px;">
-</div>
+       style="flex: 1; width: 50%; height: 100%; object-fit: cover;">
 
-<!-- Spacer -->
-<br><br>
+</div>
 
 <!-- GitHub Trophies -->
 <p align="center">
