@@ -9,19 +9,22 @@
 
 <!-- Fixed Side-by-Side Images -->
 <!-- This will ALWAYS keep them left/right, never stacked -->
-<div style="display: flex; width: 100%; height: 350px; margin: 20px 0;">
-
-  <!-- Left Image -->
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-       alt="coding gif" 
-       style="flex: 1; width: 50%; height: 100%; object-fit: cover;">
-
-  <!-- Right Image -->
-  <img src="https://cdn.dribbble.com/users/1446559/screenshots/5453050/97e3bc07ac5ca76150df36be8e142336.gif" 
-       alt="fitting gif" 
-       style="flex: 1; width: 50%; height: 100%; object-fit: cover;">
-
-</div>
+<table style="width:100%; table-layout:fixed;">
+  <tr>
+    <!-- Left Image -->
+    <td style="width:50%; vertical-align:middle; text-align:center;">
+      <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+           alt="coding gif" 
+           style="width:100%; height:350px; object-fit:cover; border-radius:10px;">
+    </td>
+    <!-- Right Image -->
+    <td style="width:50%; vertical-align:middle; text-align:center;">
+      <img src="https://cdn.dribbble.com/users/1446559/screenshots/5453050/97e3bc07ac5ca76150df36be8e142336.gif" 
+           alt="fitting gif" 
+           style="width:100%; height:350px; object-fit:cover; border-radius:10px;">
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Trophies -->
 <p align="center">
